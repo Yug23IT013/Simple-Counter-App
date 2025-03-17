@@ -17,4 +17,4 @@ open this folder in VS Code, go to terminal and type
       npm i
       npm run dev
 
-website running on : 
+website running on : https://statuesque-lebkuchen-76e1a4.netlify.app/
